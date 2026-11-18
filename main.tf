@@ -234,6 +234,3 @@ password               = "foobarbaz"
 parameter_group_name   = "default.mysq18.e"
 skip_final_snapshot    = true
 }
-
-  git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
